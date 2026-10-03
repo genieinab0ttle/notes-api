@@ -1,6 +1,9 @@
 # Notes API
 
+## What it does
+
 This is a small HTTP service with three endpoints: `/`, `/healthz`, and `/notes`.
+
 ## How to run
 
 ```bash

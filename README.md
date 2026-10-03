@@ -1,5 +1,5 @@
 # Notes API
-
+A small HTTP service for creating and reading notes.
 ## What it does
 
 This is a small HTTP service with three endpoints: `/`, `/healthz`, and `/notes`.

@@ -1,0 +1,23 @@
+# Version control and CI files
+.git
+.github
+
+# Secrets and local settings
+.env
+.env.*
+*.pem
+*.key
+
+# Dependencies and build output
+.venv
+venv
+node_modules
+**/__pycache__
+build
+target
+
+# Editor and OS clutter
+.vscode
+.idea
+.DS_Store
+*.log
